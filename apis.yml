@@ -1,0 +1,98 @@
+aid: alexi
+name: Alexi
+description: >-
+  Alexi is a Toronto, Ontario, Canada based legal artificial intelligence
+  company that operates a private AI platform purpose-built for law firms,
+  unifying legal research, drafting, and analysis into a single, single-tenant
+  environment. Founded in 2017 by Mark Doble and a team of lawyers and
+  technologists, Alexi specializes in litigation workflows — generating
+  research memos grounded in primary law, identifying controlling authority
+  and jurisdiction-specific requirements, framing case strategy, and
+  producing persuasive first drafts that reflect a firm's voice, citation
+  style, and approved structures. The platform also supports transactional
+  work, document review and comparison, knowledge management, and
+  firm-specific playbook application. Alexi's architecture combines a
+  retrieval-first approach grounded in cited authority with agentic
+  reasoning, delivered through a private cloud deployment so that firms
+  retain ownership and sovereignty over their data, models, and workflows.
+  Coverage spans all 50 U.S. states, Washington D.C., federal law, and all
+  Canadian provinces and territories (excluding Quebec). The platform
+  integrates with 20+ tools including iManage, NetDocuments, SharePoint,
+  Elite 3E, Aderant, Litify, Actionstep, Filevine, Microsoft Word, Excel,
+  Teams, Outlook, Zoom, DocuSign, Adobe Sign, Azure, AWS, Datasite,
+  Intralinks, and Firmex. Alexi is SOC 2 certified, employs AES-256
+  encryption, and reports 99% uptime with customer firms including Dentons,
+  Robins Appleby, Gluckstein Lawyers, MacLean Law, and Mongillo Law. The
+  company's revenue model is SaaS subscription (Alexi Core and Alexi
+  Advanced tiers); there is no public developer API, SDK, or open-source
+  release, and integrations are delivered as turnkey enterprise connectors
+  rather than a publicly documented integration platform.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Legal
+  - LegalTech
+  - Legal AI
+  - Litigation
+  - Legal Research
+  - Brief Drafting
+  - Law Firms
+  - Document Drafting
+  - Retrieval Augmented Generation
+  - Agentic AI
+  - Private AI
+  - Single Tenant
+  - Knowledge Management
+  - Canada
+  - Toronto
+url: https://raw.githubusercontent.com/api-evangelist/alexi/refs/heads/main/apis.yml
+created: '2026-05-24'
+modified: '2026-05-24'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.alexi.com
+  - type: AIEngine
+    url: https://www.alexi.com/ai-engine
+  - type: PrivateEnvironment
+    url: https://www.alexi.com/ai-engine/private-environment
+  - type: Integrations
+    url: https://www.alexi.com/ai-engine/integrations
+  - type: DeploymentOptions
+    url: https://www.alexi.com/ai-engine/deployment-options
+  - type: Litigation
+    url: https://www.alexi.com/solutions/litigation
+  - type: CustomerStories
+    url: https://www.alexi.com/customer-stories
+  - type: Resources
+    url: https://www.alexi.com/resources
+  - type: Blog
+    url: https://www.alexi.com/alexi-blog
+  - type: FAQ
+    url: https://www.alexi.com/faqs
+  - type: About
+    url: https://www.alexi.com/about
+  - type: Security
+    url: https://www.alexi.com/security
+  - type: Careers
+    url: https://www.alexi.com/careers
+  - type: News
+    url: https://www.alexi.com/news
+  - type: Contact
+    url: https://www.alexi.com/contact
+  - type: BookConsultation
+    url: https://www.alexi.com/book-a-consultation
+  - type: PrivacyPolicy
+    url: https://www.alexi.com/privacy-policy
+  - type: TermsOfService
+    url: https://www.alexi.com/terms-of-service
+  - type: Twitter
+    url: https://twitter.com/alexi_legal_ai
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/alexi-law
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
