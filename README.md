@@ -1,4 +1,4 @@
-# alexi
+# Alexi
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,4 +64,84 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Alexi — Toronto-based private AI platform for legal research, litigation brief drafting, and law-firm knowledge work
+Alexi is a Toronto, Ontario, Canada based legal artificial intelligence company that operates a private AI platform purpose-built for law firms, unifying legal research, drafting, and analysis into a single, single-tenant environment. Founded in 2017 by Mark Doble and a team of lawyers and technologists, Alexi specializes in litigation workflows — generating research memos grounded in primary law, identifying controlling authority and jurisdiction-specific requirements, framing case strategy, and producing persuasive first drafts that reflect a firm's voice, citation style, and approved structures. The platform also supports transactional work, document review and comparison, knowledge management, and firm-specific playbook application. Alexi's architecture combines a retrieval-first approach grounded in cited authority with agentic reasoning, delivered through a private cloud deployment so that firms retain ownership and sovereignty over their data, models, and workflows. Coverage spans all 50 U.S. states, Washington D.C., federal law, and all Canadian provinces and territories (excluding Quebec). The platform integrates with 20+ tools including iManage, NetDocuments, SharePoint, Elite 3E, Aderant, Litify, Actionstep, Filevine, Microsoft Word, Excel, Teams, Outlook, Zoom, DocuSign, Adobe Sign, Azure, AWS, Datasite, Intralinks, and Firmex. Alexi is SOC 2 certified, employs AES-256 encryption, and reports 99% uptime with customer firms including Dentons, Robins Appleby, Gluckstein Lawyers, MacLean Law, and Mongillo Law. The company's revenue model is SaaS subscription (Alexi Core and Alexi Advanced tiers); there is no public developer API, SDK, or open-source release, and integrations are delivered as turnkey enterprise connectors rather than a publicly documented integration platform.
+
+**Areas:** Legal · Legal Tech · Legal AI · Litigation · Legal Research · Brief Drafting · Law Firms · Document Drafting · RAG · AI Agents · Private AI · Single Tenant
+
+## Alexi on APIs.io
+
+Everything profiled for Alexi is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/alexi/](https://apis.io/providers/alexi/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Alexi Domain Security](https://apis.io/security/alexi/alexi-domain-security/)
+- [Alexi Trust Center](https://apis.io/security/alexi/alexi-trust-center/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.alexi.com)
+- [Blog](https://www.alexi.com/alexi-blog)
+- [Security](https://www.alexi.com/security)
+- [Terms of service](https://www.alexi.com/terms-of-service)
+- [Privacy policy](https://www.alexi.com/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 13.1** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 49.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 28.9 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 18.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/alexi/](https://apis.io/providers/alexi/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Alexi: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/alexi/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
